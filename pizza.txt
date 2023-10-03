@@ -299,7 +299,7 @@
 	display: none;
 }
 .wordmarkWindows-2dq6rw::after {
-	content: 'Midnight';
+	content: 'PizzaTIME :)';
 	display: block;
 	position: relative;
 	width: 200px;
